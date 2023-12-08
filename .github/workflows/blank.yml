@@ -13,7 +13,7 @@ jobs:
     - name: Sumar números
       run: |
         # Definir números a sumar
-        num1=20
+        num1=25
         num2=5
 
         # Realizar la suma
